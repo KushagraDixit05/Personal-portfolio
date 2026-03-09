@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <circle cx="20" cy="20" r="18" fill="#1A1A2E"/>
+  <rect x="12" y="14" width="16" height="12" rx="1.5" stroke="#60A5FA" stroke-width="1.5" fill="none"/>
+  <path d="M15 18H25M15 21H22" stroke="#60A5FA" stroke-width="1" stroke-linecap="round"/>
+  <path d="M17 26V29M23 26V29" stroke="#60A5FA" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="20" y="12" text-anchor="middle" fill="#60A5FA" font-family="Arial,sans-serif" font-size="5" font-weight="bold">VIT</text>
+</svg>

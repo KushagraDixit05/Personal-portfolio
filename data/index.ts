@@ -110,30 +110,35 @@ export const achievements = [
       "Earned a professional certificate in Blockchain Development from Coursera, covering smart contract development, decentralized applications, and blockchain architecture fundamentals.",
     name: "Blockchain Development",
     title: "Coursera Certificate",
+    profileImg: "/coursera.svg",
   },
   {
     quote:
       "Currently diving deep into Blockchain technology, exploring smart contracts, DeFi protocols, and decentralized systems. Building projects that bridge Web2 and Web3.",
     name: "Blockchain & Web3",
     title: "Currently Learning",
+    profileImg: "/web3.svg",
   },
   {
     quote:
       "Exploring the intersection of Artificial Intelligence and software development. Learning to integrate AI APIs, build intelligent features, and leverage machine learning in real-world applications.",
     name: "Artificial Intelligence",
     title: "Currently Learning",
+    profileImg: "/ai.svg",
   },
   {
     quote:
       "Pursuing B.Tech in Computer Science at VIT Vellore — one of India's top engineering institutions. Building a strong foundation in algorithms, data structures, and systems design.",
     name: "Computer Science",
     title: "B.Tech @ VIT Vellore",
+    profileImg: "/vit.svg",
   },
   {
     quote:
       "Passionate about building full-stack applications from scratch. Proficient in React, Next.js, Node.js, PostgreSQL, and modern deployment workflows with Git and Vercel.",
     name: "Full Stack Development",
     title: "Core Skill",
+    profileImg: "/fullstack.svg",
   },
 ];
 
@@ -162,6 +167,26 @@ export const techStack = [
     id: 5,
     name: "Docker",
     img: "/dock.svg",
+  },
+  {
+    id: 6,
+    name: "Node.js",
+    img: "/node.svg",
+  },
+  {
+    id: 7,
+    name: "Express.js",
+    img: "/express.svg",
+  },
+  {
+    id: 8,
+    name: "Python",
+    img: "/python.svg",
+  },
+  {
+    id: 9,
+    name: "Supabase",
+    img: "/supabase.svg",
   },
 ];
 
