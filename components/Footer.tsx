@@ -1,7 +1,7 @@
 import { FaLocationArrow } from "react-icons/fa6";
 
 import { socialMedia } from "@/data";
-import MagicButton from "./MagicButton";
+import ContactForm from "./ContactForm";
 
 const Footer = () => {
   return (
@@ -24,13 +24,8 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="mailto:iamkushagradixit@gmail.com">
-          <MagicButton
-            title="Let's get in touch"
-            icon={<FaLocationArrow />}
-            position="right"
-          />
-        </a>
+
+        <ContactForm />
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
